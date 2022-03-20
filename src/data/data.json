@@ -1,0 +1,174 @@
+{
+    "listado": [
+        {
+            "id": "1",
+            "nombre": "Photosnap",
+            "cargo": "Senior Frontend Developer",
+            "ref1": "NEW!",
+            "ref2": "FEATURED",
+            "antiguedad": "1d ago",
+            "etiqueta1": "Full time",
+            "etiqueta2": "USA only",
+            "rol": "Frontend",
+            "nivel": "Senior",
+            "conocimiento": {
+                "1": "HTML",
+                "2": "CSS",
+                "3": "JavaScript"
+            }
+        },
+        {
+            "id": "2",
+            "nombre": "Manage",
+            "cargo": "Fullstack Developer",
+            "ref1": "New!",
+            "ref2": "Featured",
+            "antiguedad": "1d ago",
+            "etiqueta1": "Part Time",
+            "etiqueta2": "Remote",
+            "rol": "Fullstack",
+            "nivel": "Midweight",
+            "conocimiento": {
+                "1": "Python",
+                "2": "React",
+                "3": ""
+            }
+        },
+        {
+            "id": "3",
+            "nombre": "Account",
+            "cargo": "Junior Frontend Developer",
+            "ref1": "New!",
+            "ref2": "",
+            "antiguedad": "2d ago",
+            "etiqueta1": "Part Time",
+            "etiqueta2": "USA only",
+            "rol": "Frontend",
+            "nivel": "Junior",
+            "conocimiento": {
+                "1": "JavaScript",
+                "2": "React",
+                "3": "Sass"
+            }
+        },
+        {
+            "id": "4",
+            "nombre": "MyHome",
+            "cargo": "Junior Frontend Developer",
+            "ref1": "",
+            "ref2": "",
+            "antiguedad": "5d ago",
+            "etiqueta1": "Contract",
+            "etiqueta2": "USA only",
+            "rol": "Frontend",
+            "nivel": "Junior",
+            "conocimiento": {
+                "1": "CSS",
+                "2": "JavaScript",
+                "3": ""
+            }
+        },
+        {
+            "id": "5",
+            "nombre": "Loop Studios",
+            "cargo": "Software Engineer",
+            "ref1": "",
+            "ref2": "",
+            "antiguedad": "1w ago",
+            "etiqueta1": "Full Time",
+            "etiqueta2": "Worldwide",
+            "rol": "Fullstack",
+            "nivel": "Midweight",
+            "conocimiento": {
+                "1": "JavaScript",
+                "2": "Ruby",
+                "3": "Sass"
+            }
+        },
+        {
+            "id": "6",
+            "nombre": "FaceIt",
+            "cargo": "Junior Backend Developer",
+            "ref1": "",
+            "ref2": "",
+            "antiguedad": "2w ago",
+            "etiqueta1": "Full Time",
+            "etiqueta2": "UK only",
+            "rol": "Backend",
+            "nivel": "Junior",
+            "conocimiento": {
+                "1": "Ruby",
+                "2": "RoR",
+                "3": ""
+            }
+        },
+        {
+            "id": "7",
+            "nombre": "Shortly",
+            "cargo": "Junior Developer",
+            "ref1": "",
+            "ref2": "",
+            "antiguedad": "2w ago",
+            "etiqueta1": "Full Time",
+            "etiqueta2": "Worldwide",
+            "rol": "Frontend",
+            "nivel": "Junior",
+            "conocimiento": {
+                "1": "HTML",
+                "2": "JavaScript",
+                "3": "Sass"
+            }
+        },
+        {
+            "id": "8",
+            "nombre": "Insure",
+            "cargo": "Junior Frontend Developer",
+            "ref1": "",
+            "ref2": "",
+            "antiguedad": "2w ago",
+            "etiqueta1": "Full Time",
+            "etiqueta2": "USA only",
+            "rol": "Frontend",
+            "nivel": "Junior",
+            "conocimiento": {
+                "1": "JavaScript",
+                "2": "Vue",
+                "3": "Sass"
+            }
+        },
+        {
+            "id": "9",
+            "nombre": "Eyecam Co.",
+            "cargo": "Full Stack Engineer",
+            "ref1": "",
+            "ref2": "",
+            "antiguedad": "3w ago",
+            "etiqueta1": "Full Time",
+            "etiqueta2": "Worldwide",
+            "rol": "Fullstack",
+            "nivel": "Midweight",
+            "conocimiento": {
+                "1": "JavaScript",
+                "2": "Python",
+                "3": "Django"
+            }
+        },
+        {
+            "id": "10",
+            "nombre": "The Air Filter Company",
+            "cargo": "Front-end Dev",
+            "ref1": "",
+            "ref2": "",
+            "antiguedad": "1mo ago",
+            "etiqueta1": "Part Time",
+            "etiqueta2": "Worldwide",
+            "rol": "Frontend",
+            "nivel": "Junior",
+            "conocimiento": {
+                "1": "JavaScript",
+                "2": "React",
+                "3": "Sass"
+            }
+        }
+    ]
+}
