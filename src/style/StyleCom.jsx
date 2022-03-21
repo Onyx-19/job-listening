@@ -110,9 +110,60 @@ const StyleCom = styled.div`
       color: white;
     }
 
+
+
+
     @media(max-width: 400px){
-      
+
+    .divCont1{
+      width: 11% !important;
+      margin: -40px 0 0 0;
     }
+    .img{
+      margin: 0 0 0 0;
+      height: 40px !important;
+      width: 40px !important;
+    }
+    .divN{
+      width: 80% !important;
+      margin: 25px 5px !important;
+      font-size: 11px !important;
+      display: block !important;
+    }
+    .divCont2{
+      margin-top: 20px !important;
+    }
+    .divCont4{
+      width: 160% !important;
+      border: solid;
+      border-width: 0 0 2.5px 0;
+      margin: 0 5px 10px 15px;
+      padding: 0 0 5px 0;
+    }      
+    .cont3{
+
+      width: auto !important;
+    }
+    .cont5{
+      width: 300px;
+      justify-content: none !important;
+    }
+    .divCont5{
+      justify-content: left !important;
+    }
+    button{
+      font-size: 10px;
+      margin: 0 0 0 5px !important;
+    }
+
+    .div{
+      width: 80% !important;
+      margin: 25px 5px !important;
+      font-size: 11px !important;
+      display: block !important;
+    }   
+} 
+
 `
 
 export default StyleCom
